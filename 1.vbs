@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "cmd /c launch.bat",0
